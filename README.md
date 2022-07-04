@@ -10,6 +10,7 @@ h/2 * [f(a) + f(b)] = Integral Definida
 $$
 
 - MÉTODO DOS TRAPÉZIOS COMPOSTA:
+
 $$
 h/2 * [f(a) + f(n) + 2 * ∑f(xi)] = Integral Definida
 $$
