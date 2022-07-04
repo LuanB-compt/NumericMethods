@@ -1,4 +1,4 @@
-# **Métodos Numéricos aplicados**
+# **MÉTODOS NUMÉRICOS APLICADOS**
 
 ### MÉTODO DOS TRAPÉZIOS:
 - No cálculo numérico, esse método é usado para fazer aproximações de integrais definidas.
